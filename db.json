@@ -1,0 +1,106 @@
+{
+  "posts": [
+    {
+      "imageURL": "https://wp.zillowstatic.com/streeteasy/2/GettyImages-934879016-583e65.jpg",
+      "id": 1,
+      "title": "New York City",
+      "author": "author 1",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et accumsan lorem. Aliquam erat volutpat. Morbi pulvinar dapibus viverra. Cras vitae rutrum felis. Nunc feugiat ipsum a eleifend varius. Suspendisse potenti. Proin condimentum tellus vel enim porta, eget convallis tellus congue. Pellentesque dictum risus quis turpis scelerisque varius in laoreet orci. Curabitur egestas tellus vitae est lobortis, vitae pulvinar enim ornare. In quis massa vel libero venenatis volutpat. Nullam nec diam tellus. Sed aliquet odio vitae ipsum fermentum molestie. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean hendrerit tincidunt urna, id tempus purus mattis eget. Donec id ornare nibh, dapibus dapibus lorem.",
+      "comments": [
+        {
+          "id": 1,
+          "image": "",
+          "author": "User 1",
+          "text": "Blsdfgksd ksdhfgjhdf dfjgh jg jfg jfjfff"
+        },
+        {
+          "id": 2,
+          "image": "",
+          "author": "User 2",
+          "text": "Blsdfgksd ksdhfgjhdf dfjgh jg jfg jfjfffksdhfgjhdf dfjgh jg jfg jfjksdhfgjhdf dfjgh jg jfg jfjksdhfgjhdf dfjgh jg jfg jfj"
+        },
+        {
+          "id": 3,
+          "image": "",
+          "author": "User 3",
+          "text": "Blsdfgksd ksdhfgjhdf dfjgh jg jfg jfjfff"
+        },
+        {
+          "id": 4,
+          "image": "",
+          "author": "User 4",
+          "text": "Blsdfgksd ksdhfgjhdf dfjgh jg jfg jfjfff"
+        },
+        {
+          "id": 5,
+          "image": "",
+          "author": "User 5",
+          "text": "Blsdfgksd ksdhfgjhdf dfjgh jg jfg jfjfff"
+        },
+        {
+          "id": 6,
+          "image": "",
+          "author": "User 6",
+          "text": "Blsdfgksd ksdhfgjhdf dfjgh jg jfg jfjfff"
+        }
+      ]
+    },
+    {
+      "title": "Hawaii",
+      "author": "author 2 ",
+      "imageURL": "https://c4.wallpaperflare.com/wallpaper/107/993/88/nature-water-mountains-cliff-wallpaper-preview.jpg",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus efficitur condimentum dui, sit amet aliquet neque dignissim eget. Proin facilisis tellus nec dui molestie, convallis ultrices purus lobortis. Nullam tellus sem, volutpat quis magna sit amet, imperdiet sodales lorem. Mauris sodales, arcu et fermentum efficitur, diam ipsum scelerisque leo, vitae semper odio nisi id urna. Curabitur bibendum nunc tortor, nec scelerisque magna rhoncus semper. Suspendisse ultricies nibh iaculis dui hendrerit congue varius non ipsum. Sed suscipit, ipsum vel posuere luctus, justo ante bibendum erat, at faucibus dui diam sit amet eros. Praesent ac ullamcorper augue, ac scelerisque est. Quisque eleifend elementum eleifend. Quisque quis tempus ante. Aenean nec felis ex.\n\nPraesent varius velit nec ex pulvinar, eu pulvinar lacus blandit. Nulla tristique dictum odio, ut dignissim tellus varius in. Integer a neque convallis, faucibus ante id, tincidunt nisi. Sed eu sem nec odio egestas faucibus nec vel risus. Donec porta pharetra nulla ac maximus. Donec quam ipsum, commodo in molestie a, cursus quis ex. Proin ut mi ac augue vulputate ultricies sed sed felis. Fusce non rhoncus ex. Integer ultrices velit nec libero placerat ultricies. Fusce suscipit quam commodo, feugiat metus non, rutrum velit. Proin lobortis, metus in mattis sagittis, dolor nulla laoreet risus, sed sodales nunc nunc ut sem. Ut imperdiet velit eget turpis dictum, sit amet pharetra ex cursus. Quisque condimentum tortor vitae arcu tempor, quis bibendum velit molestie.",
+      "comments": [
+        {
+          "id": 6,
+          "image": "",
+          "author": "User 6",
+          "text": "Blsdfgksd ksdhfgjhdf dfjgh jg jfg jfjfff"
+        },
+        {
+          "id": "da95a933-8a49-4705-9c3e-42899a28efb4",
+          "author": "qwe",
+          "image": "",
+          "text": "qwe"
+        },
+        {
+          "id": "522a0ec9-6288-4aa9-90d3-e5e88ec74695",
+          "author": "qwe",
+          "image": "",
+          "text": "qwe"
+        },
+        {
+          "id": "e075e08a-2bc3-4fd1-824b-33a7dfc88d69",
+          "author": "1",
+          "image": "",
+          "text": "1"
+        },
+        {
+          "id": "24758c46-fa79-4489-8184-d49649a396d4",
+          "author": "123",
+          "image": "",
+          "text": "123"
+        },
+        {
+          "id": "8ba1443c-34f5-48c0-b5e7-63a2d9ac106b",
+          "author": "we",
+          "image": "",
+          "text": "we"
+        },
+        {
+          "id": "eddfa251-4220-4cf7-8fd9-623f58893439",
+          "author": "sdf",
+          "image": "",
+          "text": "sdf"
+        },
+        {
+          "id": "21e89f72-bcf7-4792-a22a-26d39760cc00",
+          "author": "d123123123123",
+          "image": "",
+          "text": "123123123123"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}

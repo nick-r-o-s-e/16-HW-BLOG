@@ -1,0 +1,109 @@
+.post-page {
+  margin: 3em 5em;
+}
+
+.post {
+  display: flex;
+
+  gap: 3em;
+  .post__image__comments {
+    img {
+      width: 700px;
+      border-radius: 10px;
+    }
+    .comments-div-wrapper {
+      margin-top: 3em;
+      border-radius: 14px !important;
+      width: 90%;
+
+      overflow: hidden;
+      box-shadow: 10px 10px 19px rgba($color: #000000, $alpha: 0.3);
+      .comments-div {
+        color: #fff;
+        margin-bottom: -1px;
+
+        max-height: 500px;
+
+        overflow-y: auto;
+        background-color: #035041;
+
+        //   -moz-box-shadow: inset 0 -10px 10px -10px grey;
+        //   -webkit-box-shadow: inset 0 -10px 10px -10px grey;
+        //   box-shadow: inset 0 -30px 10px -20px grey;
+        .heading{
+            display: flex;
+            justify-content: space-between;
+            
+            h1 {
+         
+                font-size: 3em;
+                margin: 0.3em 0 0.7em 0.3em;
+              }
+            button{
+                height: fit-content;
+                margin: 1.7em 1.2em auto auto;
+                font-weight: 500;
+            }
+        }
+        
+        .comments {
+          display: flex;
+          flex-direction: column;
+          margin-left: 1em;
+          gap: 0.7em;
+          .comment {
+            display: flex;
+            border-bottom: 1px solid rgb(0, 199, 143);
+            margin-right: 1em;
+            .comment__image {
+              width: 3em !important;
+              height: 3em !important;
+              background-position: center;
+              background-repeat: no-repeat;
+              background-size: cover;
+              background-color: rgb(194, 194, 194);
+              border-radius: 50%;
+              margin: 0.5em;
+            }
+            .comment__content {
+              width: 80%;
+              display: flex;
+              flex-direction: column;
+              margin-left: 0.6em;
+              h5 {
+                margin-bottom: 0.22em;
+                font-size: 1.5em;
+              }
+              p {
+                font-size: 1.2em;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  .post__content {
+    width: 100%;
+    h1 {
+      font-size: 6em;
+      line-height: 80%;
+      margin-bottom: 0.3em;
+    }
+    h3 {
+      font-size: 2.3em;
+      font-weight: 300;
+      letter-spacing: 0.1em;
+    }
+    p {
+      font-size: 1.4em;
+    }
+  }
+}
+.actions {
+  width: 100%;
+  margin-top: 1em;
+  display: flex;
+  justify-content: end;
+  gap: 1em;
+}

@@ -1,0 +1,14 @@
+.posts{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 4em 0;
+    .post-previews {
+        display: grid;
+        width: 85%;
+        gap: 4em;
+        grid-template-columns: repeat(4, 1fr);
+    
+    }
+
+}
